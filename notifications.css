@@ -1,0 +1,880 @@
+.notifications-container {
+  min-height: 100vh;
+}
+.notifications-notifications {
+  width: 100%;
+  height: 812px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 30px;
+  background-color: rgba(248, 249, 250, 1);
+}
+.notifications-framei-phone-x-s-bars-status-default {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.notifications-action {
+  top: 14px;
+  left: 23.89404296875px;
+  width: 32px;
+  height: 18px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.notifications-text {
+  color: var(--dl-color-light-textcolor);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-container1 {
+  top: 17px;
+  left: 298.5px;
+  width: 67px;
+  height: 11.5px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.notifications-battery {
+  top: 0px;
+  left: 42.5px;
+  width: 24.5px;
+  height: 11.5px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.notifications-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 11px;
+  position: absolute;
+}
+.notifications-rectangle1 {
+  top: 1.9166667461395264px;
+  left: 2px;
+  width: 18px;
+  height: 8px;
+  position: absolute;
+  border-color: rgba(76, 217, 100, 1);
+  border-radius: 1.600000023841858px;
+}
+.notifications-combined-shape {
+  top: 0.44000244140625px;
+  left: 0px;
+  width: 17px;
+  height: 11px;
+  position: absolute;
+}
+.notifications-wi-fi {
+  top: 0.24000167846679688px;
+  left: 22.100006103515625px;
+  width: 15px;
+  height: 11px;
+  position: absolute;
+}
+.notifications-group304 {
+  top: 52px;
+  left: 20px;
+  width: 335px;
+  height: 44px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.notifications-text02 {
+  top: 12px;
+  left: 119px;
+  color: var(--dl-color-light-textcolor);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-navlink {
+  display: contents;
+}
+.notifications-menu-icon {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  padding: 15px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 40px;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+  background-color: var(--dl-color-light-bgcolor);
+}
+.notifications-appscircle {
+  width: 24px;
+  height: 24.000001907348633px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.notifications-back-arrow {
+  top: 0px;
+  left: 0px;
+  width: 23.999998092651367px;
+  height: 24.000001907348633px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.notifications-directionleft {
+  top: 6.249934196472168px;
+  left: 9.250017166137695px;
+  width: 5.500028133392334px;
+  height: 11.500056266784668px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.notifications-vector175stroke {
+  top: 0px;
+  left: -4px;
+  width: 12px;
+  height: 6px;
+  position: absolute;
+}
+.notifications-text04 {
+  top: 14px;
+  left: 290px;
+  color: var(--dl-color-light-primarycolor);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: right;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.notifications-frame248 {
+  top: 120px;
+  left: 20px;
+  width: 337px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.notifications-frame247 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 40px;
+  flex-direction: column;
+}
+.notifications-text06 {
+  color: var(--dl-color-light-textcolor);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+.notifications-frame246 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.notifications-frame235 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 24px;
+}
+.notifications-frame234 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.notifications-group155 {
+  width: 87px;
+  height: 85px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 16px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.notifications-rectangle797 {
+  top: 0px;
+  left: 0px;
+  width: 87px;
+  height: 85px;
+  position: absolute;
+}
+.notifications-nike-epic-react-flyknit-sky-blue-running-shoes1prevui1 {
+  top: 37.27197265625px;
+  left: 2px;
+  width: 76px;
+  height: 36px;
+  position: absolute;
+  border-color: transparent;
+}
+.notifications-frame223 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.notifications-text08 {
+  color: var(--dl-color-light-textcolor);
+  width: 152px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.notifications-frame222 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.notifications-text10 {
+  color: var(--dl-color-light-textcolor);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 8px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-text12 {
+  color: var(--dl-color-light-subtextcolor);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-frame233 {
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  border-color: transparent;
+  flex-direction: column;
+}
+.notifications-text14 {
+  color: var(--dl-color-light-subtextcolor);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: right;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+.notifications-ellipse891 {
+  width: 8px;
+  height: 8px;
+  position: relative;
+  border-color: transparent;
+}
+.notifications-frame237 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.notifications-frame232 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 4px;
+}
+.notifications-group156 {
+  width: 87px;
+  height: 85px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 16px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.notifications-rectangle7971 {
+  top: 0px;
+  left: 0px;
+  width: 87px;
+  height: 85px;
+  position: absolute;
+}
+.notifications-pngaaa {
+  top: 22px;
+  left: 1px;
+  width: 75px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+}
+.notifications-frame226 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.notifications-text16 {
+  color: var(--dl-color-light-textcolor);
+  width: 152px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.notifications-frame2221 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.notifications-text18 {
+  color: var(--dl-color-light-textcolor);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 8px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-text20 {
+  color: var(--dl-color-light-subtextcolor);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-frame236 {
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  border-color: transparent;
+  flex-direction: column;
+}
+.notifications-text22 {
+  color: var(--dl-color-light-subtextcolor);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: right;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+.notifications-ellipse8911 {
+  width: 8px;
+  height: 8px;
+  position: relative;
+  border-color: transparent;
+}
+.notifications-frame245 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.notifications-text24 {
+  color: var(--dl-color-light-textcolor);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+.notifications-frame244 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.notifications-frame240 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 24px;
+}
+.notifications-frame238 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 14px;
+}
+.notifications-group157 {
+  width: 87px;
+  height: 85px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 16px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.notifications-rectangle7972 {
+  top: 0px;
+  left: 0px;
+  width: 87px;
+  height: 85px;
+  position: absolute;
+}
+.notifications-pngaaa2 {
+  top: 26.7784423828125px;
+  left: 0px;
+  width: 75px;
+  height: 43px;
+  position: absolute;
+  border-color: transparent;
+}
+.notifications-frame227 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.notifications-text26 {
+  color: var(--dl-color-light-textcolor);
+  width: 152px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.notifications-frame2222 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.notifications-text28 {
+  color: var(--dl-color-light-textcolor);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 8px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-text30 {
+  color: var(--dl-color-light-subtextcolor);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-frame239 {
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  border-color: transparent;
+  flex-direction: column;
+}
+.notifications-text32 {
+  color: var(--dl-color-light-subtextcolor);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: right;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+.notifications-ellipse892 {
+  width: 8px;
+  height: 8px;
+  position: relative;
+  border-color: transparent;
+}
+.notifications-frame243 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.notifications-frame242 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 14px;
+}
+.notifications-group158 {
+  width: 87px;
+  height: 85px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 16px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.notifications-rectangle7973 {
+  top: 0px;
+  left: 0px;
+  width: 87px;
+  height: 85px;
+  position: absolute;
+}
+.notifications-nikeah8050110airmax2701eprevui1 {
+  top: 30.778564453125px;
+  left: 2px;
+  width: 75px;
+  height: 39px;
+  position: absolute;
+  border-color: transparent;
+}
+.notifications-frame228 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.notifications-text34 {
+  color: var(--dl-color-light-textcolor);
+  width: 152px;
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Work Sans;
+  font-weight: 500;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.notifications-frame2223 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.notifications-text36 {
+  color: var(--dl-color-light-textcolor);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 8px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-text38 {
+  color: var(--dl-color-light-subtextcolor);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-frame241 {
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  border-color: transparent;
+  flex-direction: column;
+}
+.notifications-text40 {
+  color: var(--dl-color-light-subtextcolor);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: right;
+  font-family: Amiko;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+.notifications-ellipse893 {
+  width: 8px;
+  height: 8px;
+  position: relative;
+  border-color: transparent;
+}
